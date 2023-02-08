@@ -1,0 +1,26 @@
+{
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maslenat/Dashboard.git"
+  },
+  "author": "Natali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maslenat/Dashboard/issues"
+  },
+  "homepage": "https://github.com/Maslenat/Dashboard#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "browserify": "^17.0.0",
+    "chart.js": "^4.2.0",
+    "js-datepicker": "^5.18.2",
+    "moment": "^2.29.4"
+  }
+}
